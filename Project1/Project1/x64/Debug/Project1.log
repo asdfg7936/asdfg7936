@@ -1,0 +1,66 @@
+﻿  소스.c
+C:\Users\swa07\source\repos\Project1\Project1\data.h(34,24): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\data.h(35,21): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\data.h(51,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\data.h(57,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\data.h(63,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\data.h(69,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\data.h(75,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\data.h(81,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(22,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(52,91): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(52,91): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 5개 필요하지만 6개가 제공되었습니다.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(55,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(65,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(67,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(69,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(71,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(75,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(76,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(77,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(90,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(97,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(103,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(118,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(120,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(122,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(125,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(126,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(127,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(141,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(148,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(154,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(181,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(183,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(221,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(221,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 3개가 제공되었습니다.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(221,10): message : 누락된 variadic 인수 4이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(211,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(218,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(224,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(235,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(242,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(248,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(255,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(265,11): warning C4098: 'return_book': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(283,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(290,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\UI.h(297,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(21,18): warning C4047: '함수': 'User *'의 간접 참조 수준이 'User (*)[100]'과(와) 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(21,16): warning C4024: 'Login_User': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(60,20): warning C4047: '함수': 'Book *'의 간접 참조 수준이 'Book (*)[100]'과(와) 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(60,18): warning C4024: 'show_book_list': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(63,16): warning C4047: '함수': 'Book *'의 간접 참조 수준이 'Book (*)[100]'과(와) 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(63,14): warning C4024: 'input_book': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(67,17): warning C4047: '함수': 'Book *'의 간접 참조 수준이 'Book (*)[100]'과(와) 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(67,15): warning C4024: 'output_book': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(71,16): warning C4047: '함수': 'User *'의 간접 참조 수준이 'User (*)[100]'과(와) 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(71,14): warning C4024: 'input_User': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(75,17): warning C4047: '함수': 'User *'의 간접 참조 수준이 'User (*)[100]'과(와) 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(75,15): warning C4024: 'output_User': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(56,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(114,15): warning C4047: '함수': 'Book *'의 간접 참조 수준이 'Book (*)[100]'과(와) 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(114,13): warning C4024: 'scan_book': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\swa07\source\repos\Project1\Project1\소스.c(110,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project1.vcxproj -> C:\Users\swa07\source\repos\Project1\x64\Debug\Project1.exe
